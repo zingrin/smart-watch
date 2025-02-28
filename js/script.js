@@ -116,7 +116,7 @@ row.innerHTML = `
     <td class="py-2 px-4">${item.color}</td>
     <td class="py-2 px-4">${item.size}</td>
     <td class="py-2 px-4">${item.quantity}</td>
-    <td class="py-2 px-4">${item.price}</td>
+    <td class="py-2 px-4">$${item.price}</td>
 
 
 `;
